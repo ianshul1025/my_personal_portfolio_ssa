@@ -1,0 +1,42 @@
+HTML Fundamentals Assignment - Documentation
+
+1. What each HTML element does:
+
+<header> – This is used to create the top part of the page, like a title area.  
+<nav> – This tag is used to make a navigation menu with links to other pages.  
+<main> – It defines the main content area of the page.  
+<section> – Used to divide the page into different sections for better structure.  
+<footer> – This appears at the bottom and usually has copyright or other info.  
+<h1> to <h6> – These are headings from biggest (h1) to smallest (h6) to organize content.  
+<ul>, <ol>, <li> – Used to create lists. I used <ul> for skills and <ol> for education.  
+<img> – To display images with alt text for accessibility.  
+<table> – For showing data in rows and columns. I used it for projects.
+<tr> – To make rows inside a table.  
+<th> – To create header cells in the table (like column titles). 
+<form> – Used to collect input from users on the contact page.  
+<input> – Different types used like text, email, tel, date, range etc.  
+<textarea> – For longer messages in the form.  
+<select> – To give dropdown options to choose from.  
+<a> – Used to create links to other pages or websites.
+<br> – To break the line without starting a new paragraph.  
+<p> – To create separate paragraphs of text.  
+
+
+2. Why you chose specific input types:
+
+- I used text input for name as it's basic text.  
+- Email input makes sure the user types a valid email address.  
+- Tel input is for phone numbers and allows using a pattern.  
+- Date input makes it easy to select a date.  
+- Range is for rating or level from 1 to 10.  
+- Checkboxes are used when more than one option can be selected.  
+- Radio buttons are used when only one option should be selected.  
+- Textarea is used for long messages.  
+- Select is for dropdown choices (like topic selection).
+
+3. How your navigation structure works:
+
+I added a <nav> tag on every page. It has links to the Home (portfolio.html),  
+About (about.html), and Contact (contact.html) pages.  
+This helps users move between pages easily.  
+Also, on the About page, I added one external link that opens in a new tab.
