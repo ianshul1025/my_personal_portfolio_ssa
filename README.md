@@ -1,0 +1,89 @@
+HTML Fundamentals Assignment - Documentation
+
+1. What each HTML element does:
+
+1.1 <header>  
+This is used to create the top part of the page, like a title area.
+
+1.2 <nav>  
+This tag is used to make a navigation menu with links to other pages.
+
+1.3 <main>  
+It defines the main content area of the page.
+
+1.4 <section>  
+Used to divide the page into different sections for better structure.
+
+1.5 <footer>  
+This appears at the bottom and usually has copyright or other info.
+
+1.6 <h1> to <h6>  
+These are headings from biggest (h1) to smallest (h6) to organize content.
+
+1.7 <ul>, <ol>, <li>  
+Used to create lists. I used <ul> for listing my skills and <ol> for education history.
+
+1.8 <img>  
+To display images with alt text for accessibility and better SEO.
+
+1.9 <table>  
+For showing data in rows and columns. I used it for listing work or projects.
+
+1.10 <tr>  
+To create rows inside a table.
+
+1.11 <th>  
+To create header cells in the table (like column titles).
+
+1.12 <form>  
+Used to collect user input on the contact page.
+
+1.13 <input>  
+Used for various fields like text, email, tel, date, range, etc.
+
+1.14 <textarea>  
+For longer messages or feedback in the form.
+
+1.15 <select>  
+To give a dropdown with multiple options to choose from.
+
+1.16 <a>  
+Used to create hyperlinks to other pages or external websites.
+
+1.17 <br>  
+Breaks a line without starting a new paragraph.
+
+1.18 <p>  
+Used to create and separate paragraphs of text.
+
+
+2. Why I chose specific input types:
+
+2.1 I used text input for name as it’s for basic text entry.
+
+2.2 Email input helps the user enter a valid email address.
+
+2.3 Tel input is for mobile numbers and works well with patterns.
+
+2.4 Date input makes it easier for the user to pick a date from a calendar.
+
+2.5 Range is useful for selecting values from a scale (like rating 1–10).
+
+2.6 Checkboxes are used when the user can select multiple options.
+
+2.7 Radio buttons are used when only one option should be selected.
+
+2.8 Textarea is used for longer messages or comments.
+
+2.9 Select is used for dropdowns where only one option needs to be selected.
+
+
+3. How my navigation structure works:
+
+3.1 I added a <nav> tag at the top of each page to hold the navigation menu.
+
+3.2 The menu has links to the three main pages: Home (portfolio.html), About (about.html), and Contact (contact.html).
+
+3.3 This helps users move easily from one page to another.
+
+3.4 On the About page, I also added an external link that opens in a new tab.
